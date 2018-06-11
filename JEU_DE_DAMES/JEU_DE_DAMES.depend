@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1521538457 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\src\pionbleu.cpp
+	"PionBleu.h"
+
+1521538457 c:\users\gougou\desktop\exercices c\jeu_de_dames\include\pionbleu.h
+
+1521538471 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\src\pionrouge.cpp
+	"PionRouge.h"
+
+1521538470 c:\users\gougou\desktop\exercices c\jeu_de_dames\include\pionrouge.h
+
+1522141730 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\src\game.cpp
+	"Game.h"
+	"iostream"
+	"stdlib.h"
+	"Plateau.h"
+
+1521842381 c:\users\gougou\desktop\exercices c\jeu_de_dames\include\game.h
+	"stdlib.h"
+	"Plateau.h"
+	"iostream"
+
+1522516603 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\main.cpp
+	<iostream>
+	"Game.h"
+	"stdio.h"
+	"stdlib.h"
+	"string"
+
+1522508456 c:\users\gougou\desktop\exercices c\jeu_de_dames\include\plateau.h
+	"Case.h"
+
+1521557948 c:\users\gougou\desktop\exercices c\jeu_de_dames\include\case.h
+	"Pion.h"
+
+1521552876 c:\users\gougou\desktop\exercices c\jeu_de_dames\include\pion.h
+	"stdlib.h"
+	"iostream"
+
+1521552938 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\src\pion.cpp
+	"Pion.h"
+	"stdlib.h"
+
+1522546973 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\src\plateau.cpp
+	"Plateau.h"
+	"Case.h"
+
+1522140472 source:c:\users\gougou\desktop\exercices c\jeu_de_dames\src\case.cpp
+	"Case.h"
+	"Pion.h"
+	"Plateau.h"
+	<windows.h>
+
